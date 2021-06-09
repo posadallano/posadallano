@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/16785292/121239411-d3279600-c85e-11eb-9d21-d567d50b327f.jpg"/>
+  <img src="https://user-images.githubusercontent.com/16785292/121385307-9e731780-c90e-11eb-8896-47d98797b4d4.png"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Andres Posada</h1>
