@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-    I'm a freelance WordPress and JavaScript software developer based in Colombia with 8+ years professional experience. I'm focus on JavaScript, React, CSS3, HTML5, PHP, WordPress, WooCommerce.<br> 
+    I'm a freelance WordPress and JavaScript software developer based in Colombia with 8+ years professional experience. I'm focused on JavaScript, React, CSS3, HTML5, PHP, WordPress, WooCommerce.<br> 
     <br>
     I am a versatilist and easily adapt to different hats depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.<br>
     <br>
