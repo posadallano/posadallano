@@ -17,7 +17,7 @@
     <br>
     I am a versatilist and easily adapt to different hats depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.<br>
     <br>
-    Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and clean code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.<br>
+    Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, teamwork and clean code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.<br>
   </em> 
   <br>
 </p>
